@@ -1,3 +1,4 @@
 # Class-Demo
 A demonstration on working with GitHub
-16 November 2004
+You're one of the kindest people I've ever been lucky enough to know.
+Don't change for anyone.
